@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/Jehmess`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: ``,
     // Content of the About Me section
     about: `Currently Learning the wicked way of the web, and all the beauty it holds. All Projects/Opinions are my own.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
