@@ -36,6 +36,12 @@ module.exports = {
           'Calculator, StopWatch, Login Credential, To-Do List, Word Counter, Typing Game',
         link: '',
       },
+      {
+        name: 'Algorithmic Trading Bot',
+        description:
+          'Python Trading Bot using the Quandl Library',
+        link: '',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
