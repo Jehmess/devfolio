@@ -21,19 +21,19 @@ module.exports = {
       {
         name: 'Devfolio',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'Developing and Managing the Webpage you are currently on',
         link: 'https://github.com/Jehmess/devfolio',
       },
       {
-        name: 'Python - Django ramework',
+        name: 'Front-End Mastery',
         description:
-          '',
+          'Developing Responsive Single Webpages. Creative Designs that will slap.',
         link: '',
       },
       {
-        name: 'TBD',
+        name: 'JavaScript MiniProjects',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'Calculator, StopWatch',
         link: '',
       },
     ],
