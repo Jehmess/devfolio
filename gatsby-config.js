@@ -33,7 +33,7 @@ module.exports = {
       {
         name: 'JavaScript MiniProjects',
         description:
-          'Calculator, StopWatch',
+          'Calculator, StopWatch, Login Credential, To-Do List, Word Counter, Typing Game',
         link: '',
       },
     ],
