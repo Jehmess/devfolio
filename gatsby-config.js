@@ -22,19 +22,19 @@ module.exports = {
         name: 'Devfolio',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/Jehmess/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Python - Django ramework',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          '',
+        link: '',
       },
       {
-        name: 'Another Cool Project',
+        name: 'TBD',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: '',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
