@@ -11,3 +11,4 @@ I was always facinated by [Norad's santa tracker](https://www.noradsanta.org/). 
 ## First
 I built a basic webpage that display how much longer till christmas is here. Obviously, it didnt accept any user interaction so the basic <Date().getTime();> javascript function only provided me with the basic UTC time stored from your local browser. Let's do better.
 
+![Simple Page](./SimplePage.jpg)
