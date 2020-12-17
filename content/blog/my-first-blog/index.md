@@ -1,7 +1,13 @@
 ---
-title: My First Blog Post
+title: Countdown to Christmas
 date: '2020-12-16'
-description: 'The Start of the Portfolio, or Journey'
+description: 'Building a Countdown to Christmas'
 ---
 
+## Christmas is coming, but when will santa arrive?
+
+I was always facinated by [Norad's santa tracker](https://www.noradsanta.org/). That is why this year I felt obligated to try and develop my own. 
+
+## First
+I built a basic webpage that display how much longer till christmas is here. Obviously, it didnt accept any user interaction so the basic <Date().getTime();> javascript function only provided me with the basic UTC time stored from your local browser. Let's do better.
 
